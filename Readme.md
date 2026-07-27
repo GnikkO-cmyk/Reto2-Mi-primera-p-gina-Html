@@ -33,9 +33,4 @@ Durante el desarrollo de este reto se pusieron en práctica los siguientes coman
 
 ## 🚀 Cómo Visualizar el Proyecto
 
-Para abrir y ver la página web en tu computadora local, sigue estos sencillos pasos:
-
-1. **Descarga** los archivos de este repositorio en tu computadora.
-2. Asegúrate de que las imágenes (`La Tierra.png`, `La Tierra2.png`, `La Tierra3.png` y `Logo GnikkO.jpg`) estén guardadas en la **misma carpeta** que el archivo de código.
-3. Busca el archivo llamado **`index.html`**.
-4. Haz **doble clic** sobre él; se abrirá automáticamente en tu navegador web predeterminado (Chrome, Edge, Firefox, etc.).
+Para visualizar el proyecto, haz click aquí:  https://gnikko-cmyk.github.io/Reto2-Mi-primera-p-gina-Html/
